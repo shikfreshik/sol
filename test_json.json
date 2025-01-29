@@ -1,1 +1,13 @@
-{}
+{
+  "name": "My Token",
+  "symbol": "MTK",
+  "uri": "https://raw.githubusercontent.com/shikfreshik/sol/refs/heads/main/test_json.json",
+  "image": "https://media.4-paws.org/9/c/9/7/9c97c38666efa11b79d94619cc1db56e8c43d430/Molly_006-2829x1886-2726x1886-1920x1328.jpg",
+  "description": "This is a description of My Token.",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    }
+  ]
+}
